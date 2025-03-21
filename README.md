@@ -2,7 +2,7 @@
 
 # Acandia Modbus Data Dashboard Interface
 
-This project is a proprietary solution developed by **Alexander Flores** for **Acandia AB**, designed for use in their routers. The Modbus Data Dashboard provides a comprehensive interface for monitoring and managing LoRaWAN-based devices connected to a Robustel router. The solution visualizes telemetry data, facilitates device management, and presents detailed register information through an intuitive web interface.
+This project is a proprietary solution developed by **Alexander Flores** for **Acandia AB**, designed for use in their routers. The Modbus Data Dashboard provides a comprehensive interface for monitoring and managing LoRaWAN-based devices connected to a Robustel router. The system converts incoming LoRaWAN data into Modbus format, enabling seamless visualization of telemetry data, device management, and detailed register information through an intuitive web interface.
 
 ---
 
