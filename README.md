@@ -76,6 +76,4 @@ This project is proprietary software owned by **Acandia AB** and intended strict
 For inquiries regarding the solution or internal deployment, please contact:  
 📧 **alexander.flores@acandia.se**
 
----
 
-This version emphasizes the solution’s purpose and functionality while clarifying that it’s not intended for public distribution. Let me know if you'd like to refine any sections. 🚀
