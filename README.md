@@ -1,5 +1,3 @@
-Here's a revised version of your README that aligns with your goal — showcasing the project's functionality without encouraging external installation or public use.
-
 ---
 
 # Acandia Modbus Data Dashboard Interface
